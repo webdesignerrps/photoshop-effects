@@ -1,5 +1,13 @@
 # photoshop-effects
 
+<div align="center">
+
+  <a href="">![Opensource](https://img.shields.io/badge/openSource-❤-red)</a>
+  <a href="">![PR](https://img.shields.io/badge/PRs-welcome-blue)</a>
+  <a href="">![friendly](https://img.shields.io/badge/beginner-friendly-l)</a>
+
+</div>
+
 This repository is for photoshop effect contributions
 
 
